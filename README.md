@@ -36,4 +36,6 @@ I turn large, messy datasets into decisions that move revenue. 3+ years of exper
 
 Open to full-time roles in **Business Analytics**, **Marketing Analytics**, and **E-Commerce Analytics** across the U.S.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prathamkabra-blue?logo=linkedin)](https://linkedin.com/in/prathamkabra)
+
 
