@@ -1,6 +1,14 @@
-## Hi there!
+# Hi, I'm Pratham Kabra 👋
 
-- 🔭 I’m currently working on Legal and Healthcare Data Analysis Projects.
-- 🌱 I’m learning AWS(S3) and BU SCC (High Performance Computing)
-- 👯 I’m looking to collaborate.
+**Business & Marketing Analytics | E-Commerce | BU MSABA '26**
+
+📍 Boston, MA  |  📧 prathamk@bu.edu  |  [LinkedIn](https://linkedin.com/in/prathamkabra)
+
+---
+
+## 🔍 About Me
+
+I turn large, messy datasets into decisions that move revenue. 3+ years of experience across e-commerce, SaaS, and legal-tech — building dashboards, running A/B tests, and defining KPI frameworks for companies across 3 continents.
+
+
 
