@@ -1,6 +1,6 @@
 # Hi, I'm Pratham Kabra 👋
 
-**Business & Marketing Analytics | E-Commerce | BU MSABA '26**
+**Boston University MSABA '26**
 
 📍 Boston, MA  |  📧 prathamk@bu.edu  |  [LinkedIn](https://linkedin.com/in/prathamkabra)
 
@@ -8,7 +8,7 @@
 
 ## 🔍 About Me
 
-I turn large, messy datasets into decisions that move revenue. 3+ years of experience across e-commerce, SaaS, and legal-tech — building dashboards, running A/B tests, and defining KPI frameworks for companies across 3 continents.
+3+ years of experience across e-commerce, SaaS, and legal-tech.
 
 ## 🛠 Tech Stack
 
@@ -33,8 +33,6 @@ I turn large, messy datasets into decisions that move revenue. 3+ years of exper
 ---
 
 ## 📫 Let's connect
-
-Open to full-time roles in **Business Analytics**, **Marketing Analytics**, and **E-Commerce Analytics** across the U.S.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prathamkabra-blue?logo=linkedin)](https://linkedin.com/in/prathamkabra)
 
